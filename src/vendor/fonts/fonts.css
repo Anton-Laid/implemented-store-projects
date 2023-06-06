@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Manrope";
+  font-style: light;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./Manrope-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./Manrope-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "PT Sans Caption";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./PTSans-CaptionBold.woff2) format("woff2");
+}
