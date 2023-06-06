@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AntonLiad/implemented-store-projects/static/css/main.3b14303e.css",
+    "main.js": "/AntonLiad/implemented-store-projects/static/js/main.35280b6a.js",
+    "static/media/imageOne.svg": "/AntonLiad/implemented-store-projects/static/media/imageOne.4cb416ca21a36b06b3b3a7b961980080.svg",
+    "static/media/imageThree.svg": "/AntonLiad/implemented-store-projects/static/media/imageThree.c300d7a0554dcba9be6a023d968c40dc.svg",
+    "static/media/imageTwo.svg": "/AntonLiad/implemented-store-projects/static/media/imageTwo.c3290abd944fd4967557b53ccfdf1ee7.svg",
+    "static/media/PTSans-CaptionBold.woff2": "/AntonLiad/implemented-store-projects/static/media/PTSans-CaptionBold.bbaf17a57cb29fe3736d.woff2",
+    "static/media/Manrope-Light.woff2": "/AntonLiad/implemented-store-projects/static/media/Manrope-Light.4fd67bb050c2faa01db8.woff2",
+    "static/media/Manrope-Regular.woff2": "/AntonLiad/implemented-store-projects/static/media/Manrope-Regular.cb78aabfaaf5d95c8665.woff2",
+    "index.html": "/AntonLiad/implemented-store-projects/index.html",
+    "main.3b14303e.css.map": "/AntonLiad/implemented-store-projects/static/css/main.3b14303e.css.map",
+    "main.35280b6a.js.map": "/AntonLiad/implemented-store-projects/static/js/main.35280b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b14303e.css",
+    "static/js/main.35280b6a.js"
+  ]
+}
