@@ -25,5 +25,3 @@ npm i
 npm start
 
 ```
-
-\*\*
